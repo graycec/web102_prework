@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG91N253aDZ6djFqMXp2bzdicG5hOTJqdThpY3p3dmFteHJhdG5qMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Jqs1rTioGf2RgK9Np/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://giphy.com/embed/2Jqs1rTioGf2RgK9Np" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2Jqs1rTioGf2RgK9Np">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
